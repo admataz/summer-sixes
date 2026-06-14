@@ -352,7 +352,7 @@ export default function SummerSixes() {
 
         {/* Semi-final note */}
         <div style={{
-          marginTop: 24, background: "#1e293b", borderRadius: 10,
+          marginTop: 25, background: "#1e293b", borderRadius: 10,
           border: "1px solid #ca8a04", padding: "12px 16px",
           fontSize: 12, color: "#fde68a", lineHeight: 1.6
         }}>
